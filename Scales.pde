@@ -1,4 +1,3 @@
-
 void setup(){
 size(400, 400);
 int diam = 0;
